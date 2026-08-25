@@ -1,4 +1,2 @@
-# onutemaster777.github.io
-The website which is down due to ISP blocking port forwarding.
-# Why?
-Oh well, it is just a website running on 24/7. Good luck.
+# onutemaster777-revived.github.io
+Which is the revival of onutemaster777.github.io
